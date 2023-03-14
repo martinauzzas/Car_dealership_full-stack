@@ -1,0 +1,46 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    /* border: red solid 1px; */
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    font-family: "Interstate Bold";
+    background-image: linear-gradient(rgba(2,0,42,1) 0%, rgba(9,121,120,1) 32%, rgba(138,220,224,1) 100%);
+}
+
+h1 {
+    color: #a2a2bd;
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #a2a2bd
+}
+
+h3 {
+    color: #a2a2bd
+}
+
+p {
+    color: white;
+    font-size: 20px
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #a2a2bd;
+}
+
+input {
+    background-color: white;
+}
